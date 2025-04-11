@@ -26,3 +26,6 @@ Before you begin, ensure you have the following installed on your machine:
    ```bash
    git clone https://github.com/yourusername/physics-experiment-simulator.git
    cd physics-experiment-simulator
+
+   pip install -r requirements.txt
+
