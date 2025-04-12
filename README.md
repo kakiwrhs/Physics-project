@@ -1,4 +1,6 @@
 # Physics-project
+##Note
+This project is not finished yet, but feedback is greatly appreciated.
 ## Overview
 
 The Physics Experiment Simulator is a project designed to simulate various physics experiments, allowing users to visualize and understand complex concepts in a user-friendly environment. This project aims to provide an interactive platform for students, educators, and physics enthusiasts to explore fundamental principles of physics through simulation.
